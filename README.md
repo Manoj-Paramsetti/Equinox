@@ -57,7 +57,7 @@ Questions
 		 
 # Level 4
 	-- Write a program to count how many numbers are repeated twice in the list of 10 values 
-           the values shoul'nt assigned in source code.
+           the values should not assigned in the source code.
 			inputs may [0,10,6,10,10,20,30,40,50,60]
 	--(For javascript) Make a slideshow using given photo with buttons can pause, run and show desired photo. 
 	--(For php) make a website to take input from the HOE that will be given later. then can caluculate the 
