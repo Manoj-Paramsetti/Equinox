@@ -34,13 +34,8 @@ Questions
 
 # Level 3
 	--Write a program to show value
+		 Reverse the number 
 		 
-		x^(8) + x^(7) + x^(6) + x^(5) + x^(4) + x^(3) + x^(2)
-			formula to use : nx^(n-1)
-		          To show this result:
-		8x^(7) + 7x^(6) + 6x^(5) + 5x^(4) + 4x^(3) + 3x^(2) + 2x^(1)
-		2 loops, 2 list, 14 variables, 2 print and all operators are allowed
-	   (The students are allowed to directly Eliminated to participate in WildCard)  
 # WildCard Round (Not for Level 3 participator and level 1 Non-achievers)
 				(20 sec are added in timer at the final round)
 	-- Write a program to remove odd numbers from list with based on condition:
