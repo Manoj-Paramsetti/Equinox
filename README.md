@@ -51,11 +51,11 @@ Questions
         Data to collect: Name, Class, Marks in Any 5 Subject
 		 
 # Level 4
-	-- Write a program to count how many numbers are repeated twice in the list of 10 values 
+	# Write a program to count how many numbers are repeated twice in the list of 10 values 
            the values should not assigned in the source code.
 			inputs may [0,10,6,10,10,20,30,40,50,60]
-	--(For javascript) Make a slideshow using given photo with buttons can pause, run and show desired photo. 
-	--(For php) make a website to take input from the HOE that will be given later. then can caluculate the 
+	# (For javascript) Make a slideshow using given photo with buttons can pause, run and show desired photo. 
+	# (For php) make a website to take input from the HOE that will be given later. then can caluculate the 
      total amount to be paid by the loan-borrower. For male it has to be 8% interest and for female it has 
      to be 5% interest with amount of 2,00,000 for both. it will be paid after one year and if age crosses 
      40 yrs add 0.8% of interest for both Male and Female.('The Apache service has to stopped. If it is not 
@@ -64,15 +64,18 @@ Questions
 Requirement
 ===========
 
-	> Two volunteers
-	> Software(python 3.7.3, Dev c++, WAMP server or local host server)
+	Two volunteers
+	Software(python 3.7.3, Dev c++, WAMP server or local host server)
 
 TIME
 ====
-	> 2:30 hrs
+	2:30 hrs
 Host
 ====
- 	>Paramsetti Manoj (Vice president of computer club 2019-2020 in MCC School)
+ 	Paramsetti Manoj (Vice president of computer club 2019-2020 in MCC School)
+Judge
+=====
+	Computer Science Author for 12th
 PLACE
 =====
-	> Junior Computer Lab, Madras Christian College Higher Secondary School
+	Junior Computer Lab, Madras Christian College Higher Secondary School
