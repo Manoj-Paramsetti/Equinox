@@ -1,4 +1,4 @@
-## Snake byte 
+## Snake byte Equinox 2020 Competition
 
 Questions
 =========
@@ -70,7 +70,9 @@ Requirement
 TIME
 ====
 	> 2:30 hrs
-
+Host
+====
+ 	>Paramsetti Manoj (Vice president of computer club 2019-2020 in MCC School)
 PLACE
 =====
-	> Junior Computer Lab
+	> Junior Computer Lab, Madras Christian College Higher Secondary School
