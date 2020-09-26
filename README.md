@@ -75,7 +75,7 @@ Host
  	Paramsetti Manoj (Vice president of computer club 2019-2020 in MCC School)
 Judge
 =====
-	Computer Science Author for 12th
+	Computer Science Author for 12th State Board
 PLACE
 =====
 	Junior Computer Lab, Madras Christian College Higher Secondary School
