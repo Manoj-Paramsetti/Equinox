@@ -1,4 +1,4 @@
-## Snake byte Equinox 2020 Competition
+## SnakeByte Equinox 2020 Competition
 
 Questions
 =========
