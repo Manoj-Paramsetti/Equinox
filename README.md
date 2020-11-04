@@ -72,7 +72,7 @@ TIME
 	2:30 hrs
 Host
 ====
- 	Paramsetti Manoj (Vice president of computer club 2019-2020 in MCC School)
+ 	Paramsetti Manoj (President of computer club 2019-2020 in MCC School)
 Judge
 =====
 	Computer Science Author for 12th State Board
